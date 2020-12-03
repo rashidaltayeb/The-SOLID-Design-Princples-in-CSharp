@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/code4life/RiderProjects/The SOLID Desgin Princples/Single Responsibility/Single Responsibility.csproj": {}
+  },
+  "projects": {
+    "/home/code4life/RiderProjects/The SOLID Desgin Princples/Single Responsibility/Single Responsibility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/code4life/RiderProjects/The SOLID Desgin Princples/Single Responsibility/Single Responsibility.csproj",
+        "projectName": "Single Responsibility",
+        "projectPath": "/home/code4life/RiderProjects/The SOLID Desgin Princples/Single Responsibility/Single Responsibility.csproj",
+        "packagesPath": "/home/code4life/.nuget/packages/",
+        "outputPath": "/home/code4life/RiderProjects/The SOLID Desgin Princples/Single Responsibility/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/code4life/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/code4life/dotnet/sdk/3.1.404/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

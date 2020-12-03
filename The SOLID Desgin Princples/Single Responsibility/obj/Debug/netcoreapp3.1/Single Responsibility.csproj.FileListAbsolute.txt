@@ -1,0 +1,13 @@
+/home/code4life/RiderProjects/The SOLID Desgin Princples/Single Responsibility/bin/Debug/netcoreapp3.1/Single Responsibility
+/home/code4life/RiderProjects/The SOLID Desgin Princples/Single Responsibility/bin/Debug/netcoreapp3.1/Single Responsibility.deps.json
+/home/code4life/RiderProjects/The SOLID Desgin Princples/Single Responsibility/bin/Debug/netcoreapp3.1/Single Responsibility.runtimeconfig.json
+/home/code4life/RiderProjects/The SOLID Desgin Princples/Single Responsibility/bin/Debug/netcoreapp3.1/Single Responsibility.runtimeconfig.dev.json
+/home/code4life/RiderProjects/The SOLID Desgin Princples/Single Responsibility/bin/Debug/netcoreapp3.1/Single Responsibility.dll
+/home/code4life/RiderProjects/The SOLID Desgin Princples/Single Responsibility/bin/Debug/netcoreapp3.1/Single Responsibility.pdb
+/home/code4life/RiderProjects/The SOLID Desgin Princples/Single Responsibility/obj/Debug/netcoreapp3.1/Single Responsibility.csprojAssemblyReference.cache
+/home/code4life/RiderProjects/The SOLID Desgin Princples/Single Responsibility/obj/Debug/netcoreapp3.1/Single Responsibility.AssemblyInfoInputs.cache
+/home/code4life/RiderProjects/The SOLID Desgin Princples/Single Responsibility/obj/Debug/netcoreapp3.1/Single Responsibility.AssemblyInfo.cs
+/home/code4life/RiderProjects/The SOLID Desgin Princples/Single Responsibility/obj/Debug/netcoreapp3.1/Single Responsibility.csproj.CoreCompileInputs.cache
+/home/code4life/RiderProjects/The SOLID Desgin Princples/Single Responsibility/obj/Debug/netcoreapp3.1/Single Responsibility.dll
+/home/code4life/RiderProjects/The SOLID Desgin Princples/Single Responsibility/obj/Debug/netcoreapp3.1/Single Responsibility.pdb
+/home/code4life/RiderProjects/The SOLID Desgin Princples/Single Responsibility/obj/Debug/netcoreapp3.1/Single Responsibility.genruntimeconfig.cache
